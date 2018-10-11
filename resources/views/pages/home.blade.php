@@ -1,6 +1,9 @@
 @extends('layouts.master')
 
 @section('content')
-    <h1>Hello World.</h1>
+<section class="home">
 
+    <p>@lang('site.home.hello') @lang('site.home.world').</p><br>
+
+</section>
 @endsection

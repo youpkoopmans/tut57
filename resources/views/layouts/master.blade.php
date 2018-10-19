@@ -1,5 +1,5 @@
 <!doctype html>
 <html lang="nl">
-    @include('includes.head')
+    @include('include.head')
     @include('layouts.body')
 </html>

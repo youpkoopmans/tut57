@@ -1,6 +1,6 @@
 <body>
-@include('elementen.sections.header')
+@include('element.sections.header')
 @yield('content')
-@include('elementen.sections.footer')
-@include('includes.styles-scripts.scripts')
+@include('element.sections.footer')
+@include('include.styles-scripts.scripts')
 </body>

@@ -1,8 +1,13 @@
 /*
  |--------------------------------------------------------------------------
- | All include
+ | All Elements
  |--------------------------------------------------------------------------
  */
 
-@import "all-includes/buttons";
-@import "all-includes/forms";
+.header {
+  @import "all-elements/header";
+}
+
+.footer {
+  @import "all-elements/footer";
+}

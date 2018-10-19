@@ -1,3 +1,3 @@
 <section class="header">
-    @include('elementen.header')
+    @include('element.header')
 </section>

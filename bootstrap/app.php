@@ -6,8 +6,8 @@
 |--------------------------------------------------------------------------
 |
 | The first thing we will do is create a new Laravel application instance
-| which serves as the "glue" for all-includes the components of Laravel, and is
-| the IoC container for the system binding all-includes of the various elementen.
+| which serves as the "glue" for all-elements the components of Laravel, and is
+| the IoC container for the system binding all-elements of the various element.
 |
 */
 

@@ -1,3 +1,3 @@
 <section class="footer">
-    @include('elementen.footer')
+    @include('element.footer')
 </section>

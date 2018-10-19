@@ -5,11 +5,40 @@
  |
  |--------------------------------------------------------------------------
  */
+
+// Fonts
+  // Raleway
 @import "fonts/fonts";
+
+// Variables
 @import "variables/variables";
+
+// CDN links
+  // Bootstrap 4
 @import "cdn/cdn";
+
+// Color themes
+  // Standard color theme
+  // Color theme 1
+  // Color theme 2
 @import "color-themes/color-themes";
+
+// Includes
+  // Buttons
+  // Forms
 @import "includes/includes";
+
+// Elements
+  // Header
+  // Footer
+@import "elements/elements";
+
+// Utilities
 @import "utilities/utilities";
+
+// Pages
+  // Home
 @import "pages/pages";
-//@import "all-includes-help-files/all-includes-all-includes-help-files";
+
+// Helper files
+//@import "all-elements-help-files/all-elements-all-elements-help-files";
